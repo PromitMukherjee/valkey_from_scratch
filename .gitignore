@@ -1,0 +1,15 @@
+# Build files
+build/
+
+#Runtime persistence data
+data/
+test_data/
+
+#Compiled files
+*.o
+*.a
+
+*.out
+
+#IDE settings
+.vscode/
